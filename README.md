@@ -17,7 +17,6 @@
 - 📚 MCA Student
 - ⚡ Interested in DSA & Web Dev
 
----
 
 ## 🛠️ Skills
 
