@@ -34,8 +34,7 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbhishekAwasthi47&show_icons=true&theme=tokyonight&hide_border=true" />
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbhishekAwasthi47&show_icons=true&theme=radical&cache_seconds=1800" />
   <img width="48%" src="https://streak-stats.demolab.com?user=AbhishekAwasthi47&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -46,7 +45,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekAwasthi47&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekAwasthi47&theme=onedark&row=1&column=6" width="100%" />
 </p>
 
 # 🐍 Contribution Snake
