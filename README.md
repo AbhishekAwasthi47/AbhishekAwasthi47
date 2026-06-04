@@ -17,19 +17,16 @@
 - 📚 MCA Student
 - ⚡ Interested in DSA & Web Dev
 
-
 ## 🛠️ Skills
-
 # 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,java,js,react,nodejs,mongodb,express,html,css,tailwind,git,github,vscode,firebase&theme=dark" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750718-2d6f3e00-6d5f-4b2d-b7b2-1f2c8d8b7d6b.gif" width="100%">---
+<img src="https://user-images.githubusercontent.com/74038190/212750718-2d6f3e00-6d5f-4b2d-b7b2-1f2c8d8b7d6b.gif" width="100%">
 
 ## 📊 GitHub Stats
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -37,8 +34,6 @@
 
   <img width="49%" src="https://streak-stats.demolab.com?user=AbhishekAwasthi47&theme=tokyonight&hide_border=true" />
 </p>
-
-
 
 # 🏅 Achievements & Badges
 
