@@ -39,9 +39,7 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=AbhishekAwasthi47&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekAwasthi47&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 # 🏅 Achievements & Badges
 
