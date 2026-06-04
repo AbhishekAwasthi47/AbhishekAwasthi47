@@ -43,10 +43,16 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekAwasthi47&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-# 🏆 GitHub Trophies
+# 🏅 Achievements & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekAwasthi47&theme=onedark&row=1&column=6" width="100%" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge&logo=github" />
+
+  <img src="https://img.shields.io/badge/MERN-Developer-success?style=for-the-badge&logo=mongodb" />
+
+  <img src="https://img.shields.io/badge/DSA-Enthusiast-orange?style=for-the-badge&logo=leetcode" />
+
+  <img src="https://img.shields.io/badge/MCA-Student-blue?style=for-the-badge&logo=bookstack" />
 </p>
 
 # 🐍 Contribution Snake
