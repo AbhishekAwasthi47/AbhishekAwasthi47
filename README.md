@@ -49,10 +49,10 @@
 <img src="https://github-profile-trophy.vercel.app/?username=AbhishekAwasthi47&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
-# 📈 Contribution Graph
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekAwasthi47&theme=tokyo-night&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
