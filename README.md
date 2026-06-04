@@ -21,6 +21,10 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AbhishekAwasthi47&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekAwasthi47&show_icons=true&theme=tokyonight" />
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=AbhishekAwasthi47&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbhishekAwasthi47&theme=tokyonight" />
+</p>
